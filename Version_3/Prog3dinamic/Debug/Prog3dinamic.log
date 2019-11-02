@@ -1,0 +1,4 @@
+﻿  Prog3dinamic.cpp
+c:\users\илюша\desktop\программирование\ооп\prog3dinamic\prog3dinamic\prog3dinamic.cpp(10): warning C4101: rv: неиспользованная локальная переменная
+c:\users\илюша\desktop\программирование\ооп\prog3dinamic\prog3dinamic\prog3dinamic.cpp(15): warning C4101: i: неиспользованная локальная переменная
+  Prog3dinamic.vcxproj -> C:\Users\Илюша\Desktop\Программирование\ООП\Prog3dinamic\Debug\Prog3dinamic.exe
